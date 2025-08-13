@@ -1,5 +1,5 @@
 # amazon_ui
-Disclaimer-Made entirely for educational purpouse.
+Disclaimer-Made entirely for educational purpouse. 
 An Amazon UI clone that presents the homepage of  E-Commerce Website "Amazon".This is a frontend 
 project made using HTML,.Made to get a better understanding of the working as well as developement
 of a front-end website,presenting different sections seen on the website like the navigation bar,
